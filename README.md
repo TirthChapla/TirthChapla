@@ -13,7 +13,7 @@ Right now, I'm pursuing an Information Technology degree at DDU, and I'm super e
 
 🤝 Open to collaborating on cool projects
 
-📬 Reach out to me at: tirthchapla123@gmail.com
+📬 My portfolio: tirthchapla123@gmail.com
 
 # 🌐Socials
 
