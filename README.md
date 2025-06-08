@@ -38,6 +38,13 @@ Right now, I'm pursuing an Information Technology degree at DDU, and I'm super e
 ![](https://github-trophies.vercel.app/?username=TirthChapla&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
 
 
+<div align="center">
+  
+  ![snake gif](https://github.com/TirthChapla/TirthChapla/blob/output/github-snake-dark.svg)
+
+</div>
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
