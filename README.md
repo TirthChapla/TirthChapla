@@ -35,7 +35,8 @@ you can write them as text badges -->
 [![DB](https://skillicons.dev/icons?i=mongodb,postgres)](https://skillicons.dev)
 
 ### 💻 IDE
-[![ide](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+[![ide](https://skillicons.dev/icons?i=vscode,idea,netbeans)](https://skillicons.dev)
+
 
 # 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=TirthChapla&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
