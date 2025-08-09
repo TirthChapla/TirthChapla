@@ -32,7 +32,7 @@ you can write them as text badges -->
 ### 🚀 Frameworks & Library & Package Manager
 [![fremworks](https://skillicons.dev/icons?i=react,vite,nodejs,express,mongodb,redux)](https://skillicons.dev)
 ### ⚡ Database
-[![DB](https://skillicons.dev/icons?i=mongodb,postgres)](https://skillicons.dev)
+[![DB](https://skillicons.dev/icons?i=mongodb,postgres,mysql)](https://skillicons.dev)
 
 ### 💻 IDE
 [![ide](https://skillicons.dev/icons?i=vscode,idea,netbeans)](https://skillicons.dev)
