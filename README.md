@@ -26,13 +26,10 @@ Hi! I'm currently pursuing a degree in Information Technology at **Dharmsinh Des
 [![Languages](https://skillicons.dev/icons?i=c,cpp,java,py,html,css,js)](https://skillicons.dev)
 <!-- For tools not available on skillicons.dev like Spring Boot, JPA, REST APIs, MVC, Microservices, 
 you can write them as text badges -->
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=java&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=postman&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC-007ACC?style=for-the-badge&logo=java&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=java&logoColor=white)
-### 🚀 Frameworks & Library & Package Manager
-[![fremworks](https://skillicons.dev/icons?i=react,vite,nodejs,express,mongodb,redux)](https://skillicons.dev)
+### 🚀 Frameworks, Libraries & Tools
+[![frameworks](https://skillicons.dev/icons?i=react,vite,nodejs,mongodb,spring,hibernate,docker,aws)](https://skillicons.dev)
+
+
 ### ⚡ Database
 [![DB](https://skillicons.dev/icons?i=mongodb,postgres,mysql)](https://skillicons.dev)
 
