@@ -2,14 +2,15 @@
 # Hi, I'm Tirth! 👋
 
 
-# 💫About Me :
-Hey there!
+# 💫 About Me
 
-I'm a Beginner developer who's all about creating digital experiences. I've got a solid grip on HTML, CSS, JavaScript, and I'm always on the lookout to improve my code. On the flip side, I've dive into back-end development early.
+Hi! I'm currently pursuing a degree in Information Technology at **Dharmsinh Desai University**. I’m passionate about using technology to solve real-world problems and always looking for ways to challenge myself, learn, and grow. I enjoy building digital experiences across both frontend and backend, and I’m eager to collaborate on innovative projects with like-minded people in tech.  
 
-Right now, I'm pursuing an Information Technology degree at DDU, and I'm super eager to jump into innovative projects and team up with like-minded folks in the tech world.
+## 🏆 Consistency Highlights  
+- **200+ days streak** on GitHub (continuous coding contributions)  
+- **50+ days streak** on CodeChef (consistent problem-solving)  
 
-🌱 Currently learning DSA
+## 🌱 Currently learning DSA
 
 🤝 Open to collaborating on cool projects
 
@@ -18,6 +19,7 @@ Right now, I'm pursuing an Information Technology degree at DDU, and I'm super e
 # 🌐Socials
 
 [![linkedin](https://skillicons.dev/icons?i=linkedin)]([https://www.linkedin.com/in/TirthChapla](https://www.linkedin.com/in/tirth-chapla-589227297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[![gmail](https://skillicons.dev/icons?i=gmail)](mailto:tirthchapla123@gmail.com)
 
 
 ### 👩‍💻 Languages
