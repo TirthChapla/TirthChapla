@@ -7,8 +7,9 @@
 Hi! I'm currently pursuing a degree in Information Technology at **Dharmsinh Desai University**. I’m passionate about using technology to solve real-world problems and always looking for ways to challenge myself, learn, and grow. I enjoy building digital experiences across both frontend and backend, and I’m eager to collaborate on innovative projects with like-minded people in tech.  
 
 ## 🏆 Consistency Highlights  
-- **290+ days streak** on GitHub (continuous coding contributions)  
-- **110+ days streak** on CodeChef (consistent problem-solving)  
+- **300+ days streak** on GitHub (continuous coding contributions)  
+- **110+ days streak** on CodeChef (consistent problem-solving)
+- **60+ days streak** on LeetCode (consistent problem-solving)  
 
 ## 🌱 Currently learning DSA
 
