@@ -9,8 +9,6 @@ Hi! I'm currently pursuing a degree in Information Technology at **Dharmsinh Des
 ## 🏆 Consistency Highlights  
 - **300+ days streak** on GitHub (continuous coding contributions)  
 - **110+ days streak** on CodeChef (consistent problem-solving)
-- **60
--
 - 100+ days streak** on LeetCode (consistent problem-solving)  
 
 ## 🌱 Currently learning DSA
