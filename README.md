@@ -39,6 +39,7 @@ you can write them as text badges -->
 
 
 # 📊 GitHub Stats :
+
 ![](https://github-readme-stats.vercel.app/api?username=TirthChapla&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TirthChapla&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TirthChapla&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
